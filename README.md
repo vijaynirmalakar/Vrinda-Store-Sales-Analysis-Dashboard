@@ -2,6 +2,8 @@
 ## Project Overview
 This project is a complete Sales Analysis Dashboard built in Microsoft Excel using real-world Indian retail data from Vrinda Store. The goal of this project is to analyze sales performance across different channels, states, product categories, gender groups, and age groups for the year 2022.
 
+<img width="1863" height="759" alt="Vrinda Store Sales Dashboard" src="https://github.com/user-attachments/assets/d2cb32d4-9f6c-4783-9060-7f833e6dd057" />
+
 **This project was built to practice and demonstrate the following Excel skills:**
 •	Data Cleaning and Formatting
 •	Pivot Tables for data summarization
